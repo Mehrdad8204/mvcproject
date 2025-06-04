@@ -45,3 +45,8 @@
 
 این صفحه index آرتیکل هست
 ![Image](https://github.com/user-attachments/assets/5eb73bd7-37e0-48a0-95dd-1ec563f4e5cc)
+
+
+
+اینجا صفحه create آرتیکل هست برای ایجاد یک آرتیکل
+![Image](https://github.com/user-attachments/assets/f6e64894-c47c-4b3d-a582-82d2ea10e330)
