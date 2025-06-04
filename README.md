@@ -50,3 +50,9 @@
 
 اینجا صفحه create آرتیکل هست برای ایجاد یک آرتیکل
 ![Image](https://github.com/user-attachments/assets/f6e64894-c47c-4b3d-a582-82d2ea10e330)
+
+
+
+
+صفحه index ارتیکل مقاله را ویرایش شده
+![Image](https://github.com/user-attachments/assets/50d7052c-09af-4a62-aad1-981af3630be4)
