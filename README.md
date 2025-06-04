@@ -43,7 +43,7 @@
 
 
 
-این صفحه index آرتیکل هست
+این صفحه index آرتیکل ها هست
 ![Image](https://github.com/user-attachments/assets/5eb73bd7-37e0-48a0-95dd-1ec563f4e5cc)
 
 
@@ -53,6 +53,10 @@
 
 
 
-
-صفحه index ارتیکل مقاله را ویرایش شده
+صفحه index ارتیکل ها مقاله را ویرایش شده
 ![Image](https://github.com/user-attachments/assets/50d7052c-09af-4a62-aad1-981af3630be4)
+
+
+
+مقاله از صفحه index ارتیکل ها دیلیت شد
+![Image](https://github.com/user-attachments/assets/44013824-3b82-45fa-bffe-bcc15f36e405)
