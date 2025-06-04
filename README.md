@@ -65,3 +65,12 @@
 
 صفحه index کتگوری ها
 ![Image](https://github.com/user-attachments/assets/a6c60f22-5802-4943-807c-cfab8dbbe475)
+
+
+ 
+صفحه edit کتگوری ها برای ویرایش کردن مقادیر دسته بندی
+![Image](https://github.com/user-attachments/assets/fc585349-17f4-4e1f-8737-e986916cef2e) 
+
+
+
+
