@@ -60,3 +60,8 @@
 
 مقاله از صفحه index ارتیکل ها دیلیت شد
 ![Image](https://github.com/user-attachments/assets/44013824-3b82-45fa-bffe-bcc15f36e405)
+
+
+
+صفحه index کتگوری ها
+![Image](https://github.com/user-attachments/assets/a6c60f22-5802-4943-807c-cfab8dbbe475)
