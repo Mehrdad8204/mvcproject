@@ -43,7 +43,7 @@
 
 
 
-این صفحه index آرتیکل ها هست
+ صفحه index (داشبورد)آرتیکل ها
 ![Image](https://github.com/user-attachments/assets/5eb73bd7-37e0-48a0-95dd-1ec563f4e5cc)
 
 
@@ -53,17 +53,17 @@
 
 
 
-صفحه index ارتیکل ها مقاله را ویرایش شده
+صفحه index ارتیکل ها مقاله داخلش ویرایش شده
 ![Image](https://github.com/user-attachments/assets/50d7052c-09af-4a62-aad1-981af3630be4)
 
 
 
-مقاله از صفحه index ارتیکل ها دیلیت شد
+مقاله ای از صفحه index (داشبورد) ارتیکل ها دیلیت شد
 ![Image](https://github.com/user-attachments/assets/44013824-3b82-45fa-bffe-bcc15f36e405)
 
 
 
-صفحه index کتگوری ها
+صفحه index (داشبورد) کتگوری ها
 ![Image](https://github.com/user-attachments/assets/a6c60f22-5802-4943-807c-cfab8dbbe475)
 
 
@@ -73,5 +73,5 @@
 
 
 
-تو صفحه index کتگوری ها مقدار اول دسته بندی ویرایش شده
+تو صفحه index (داشبورد) کتگوری ها مقدار اول دسته بندی ویرایش شده
 ![Image](https://github.com/user-attachments/assets/e7bb6659-44aa-452b-8f8b-00f70b86c0c7)
