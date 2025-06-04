@@ -73,4 +73,5 @@
 
 
 
-
+تو صفحه index کتگوری ها مقدار اول دسته بندی ویرایش شده
+![Image](https://github.com/user-attachments/assets/e7bb6659-44aa-452b-8f8b-00f70b86c0c7)
